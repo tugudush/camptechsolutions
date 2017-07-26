@@ -1,0 +1,27 @@
+[29-May-2017 12:30:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Background_Position_Control' not found in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php:199
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/customizer.php(167): require_once()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): illdy_customize_register(Object(WP_Customize_Manager))
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/class-wp-customize-manager.php(623): do_action('customize_regis...', Object(WP_Customize_Manager))
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): WP_Customize_Manager->wp_loaded('')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-settings.php(414): do_action('wp_loaded')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-config.php(89): require_once('/home1/bubospec...')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-load.php(37): require_once('/home1/bubospec in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php on line 199
+[29-May-2017 12:30:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Background_Position_Control' not found in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php:199
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/customizer.php(167): require_once()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): illdy_customize_register(Object(WP_Customize_Manager))
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/class-wp-customize-manager.php(623): do_action('customize_regis...', Object(WP_Customize_Manager))
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): WP_Customize_Manager->wp_loaded('')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-settings.php(414): do_action('wp_loaded')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-config.php(89): require_once('/home1/bubospec...')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-load.php(37): require_once('/home1/bubospec in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php on line 199
+[29-May-2017 12:30:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Background_Position_Control' not found in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php:199
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/customizer.php(167): require_once()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): illdy_customize_register(Object(WP_Customize_Manager))
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/class-wp-customize-manager.php(623): do_action('customize_regis...', Object(WP_Customize_Manager))
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): WP_Customize_Manager->wp_loaded('')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-settings.php(414): do_action('wp_loaded')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-config.php(89): require_once('/home1/bubospec...')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-load.php(37): require_once('/home1/bubospec in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/panels/jumbotron.php on line 199

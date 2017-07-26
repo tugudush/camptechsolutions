@@ -1,0 +1,281 @@
+[29-May-2017 12:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[29-May-2017 12:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[29-May-2017 14:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[29-May-2017 19:36:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[30-May-2017 03:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[30-May-2017 03:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[30-May-2017 08:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[30-May-2017 17:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[30-May-2017 23:24:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:06:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:07:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:08:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:08:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:09:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:09:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:09:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:10:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:10:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:12:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 00:18:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 01:17:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 02:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[31-May-2017 04:53:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[02-Jun-2017 11:38:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[03-Jun-2017 08:54:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[03-Jun-2017 08:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[03-Jun-2017 12:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sanitize_hex_color() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php:111
+Stack trace:
+#0 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(256): Epsilon_Color_Scheme->get_color_scheme()
+#1 /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php(263): Epsilon_Color_Scheme->generate_css()
+#2 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): Epsilon_Color_Scheme->enqueue('')
+#3 /home1/bubospec/public_html/camptechsolutions/wp-includes/script-loader.php(1076): do_action('wp_enqueue_scri...')
+#4 /home1/bubospec/public_html/camptechsolutions/wp-includes/plugin.php(525): wp_enqueue_scripts('')
+#5 /home1/bubospec/public_html/camptechsolutions/wp-includes/general-template.php(2528): do_action('wp_head')
+#6 /home1/bubospec/public_html/camptechsolutions/wp-con in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/illdy/inc/customizer/class-epsilon-color-scheme.php on line 111
+[13-Jun-2017 07:13:13 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home1/bubospec/public_html/camptechsolutions/wp-includes/class-wp-xmlrpc-server.php on line 601
+[13-Jun-2017 08:47:18 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home1/bubospec/public_html/camptechsolutions/wp-includes/class-wp-xmlrpc-server.php on line 601
