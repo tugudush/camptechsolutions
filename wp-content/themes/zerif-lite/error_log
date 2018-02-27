@@ -1,0 +1,16 @@
+[04-Feb-2018 04:57:58 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php on line 14
+[04-Feb-2018 04:57:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php on line 14
+[04-Feb-2018 04:58:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php on line 14
+[04-Feb-2018 04:58:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/themes/zerif-lite/footer.php on line 14

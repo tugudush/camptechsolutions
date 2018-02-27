@@ -1,1 +1,17 @@
 [27-Feb-2017 08:55:16 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php on line 60
+[16-Sep-2017 08:58:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php on line 60
+[09-Nov-2017 16:24:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php on line 60
+[19-Nov-2017 02:53:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php on line 60
+[21-Jan-2018 04:58:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home1/bubospec/public_html/camptechsolutions/wp-content/plugins/hello.php on line 60
